@@ -7,7 +7,6 @@ background-image:url(../css/PIC_0415.JPG);
 
 h1 span{ 
   color:#ffffff;
-  background-color:#c1e4e9;
   border:#a0d8ef 1px dotted;
 border-left: #c1e4e9 10px solid;
  margin-bottom:0;
@@ -21,7 +20,8 @@ font-size: 2em;
 
 #lead
 {
-  color:#d7cf3a
+  background-color:#c1e4e9;
+  font-weight:bold;
 }
 address
 {
