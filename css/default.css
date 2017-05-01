@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+first-letter {color:#eaf4fc; padding:5px;}
 body{
 background-image:url(css/PIC_0415.JPG);
 }
@@ -11,21 +11,24 @@ border-left: #c1e4e9 10px solid;
  margin-bottom:0;
  padding:5px 20px;
 }
+
 address
 {
 font-size: 2em;
 }
 
 #lead
-{color:#d7cf3a
-  background-color:#a0d8ef;
+{
+  color:#d7cf3a
+  background-color:#c1e4e9;
 
 }
 address
 {
 font-size:2em;
 }
-.greeting{color:#d7cf3a
+.greeting{
+  color:#d7cf3a
 address
 {
 font-size:2em;
