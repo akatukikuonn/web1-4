@@ -1,6 +1,6 @@
 @charset"UTF-8";
 
-body{
+.greeting{
  background-color:#83ccd2;
 background-image:ur1(../img/PIC_0415.JPG)
 background-repest:no-repeat;
@@ -20,12 +20,6 @@ fount-size:2em;
 
 #lead
 {color:#d7cf3a
-address
-{
-fount-size:2em;
-}
-}
-.greeting{color:#d7cf3a
 address
 {
 fount-size:2em;
