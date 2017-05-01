@@ -4,6 +4,10 @@ body{
  background-color:#83ccd2;
 background-image:ur1(PIC_0415.JPG)
 background-repest:n-repeat;
+ border:#a0d8ef 1px dotted;
+border-left#c1e4e9 10px solid;
+ margin-bottom:0;
+ padding:5px 20px;
 }
 
 h1 span{ 
