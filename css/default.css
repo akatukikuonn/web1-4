@@ -9,19 +9,19 @@ background-repest:n-repeat;
 h1 span{ 
 color:#d7cf3a
   border:#a0d8ef 1px dotted;
-border-left#c1e4e9 10px solid;
+border-left: #c1e4e9 10px solid;
  margin-bottom:0;
  padding:5px 20px;
+}
 address
 {
-fount-size:2em;
-}
+font-size: 2em;
 }
 
 #lead
 {color:#d7cf3a
 address
 {
-fount-size:2em;
+font-size:2em;
 }
 }
